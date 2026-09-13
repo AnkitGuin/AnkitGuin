@@ -38,10 +38,10 @@ I like working on problems where data tells a story — from predicting machine 
 
 | Project | What it does |
 |---|---|
-| [**RagBench**](https://github.com/AnkitGuin/RagBench) | *[fill in — looks like a benchmark/eval suite for RAG (retrieval-augmented generation) systems]* |
+| [**RagBench**](https://github.com/AnkitGuin/RagBench) | A benchmark/eval suite for RAG (retrieval-augmented generation) systems |
 | [**SciContradict**](https://github.com/AnkitGuin/SciContradict) | Scientific NLI system classifying research claims as Support/Contradiction/Neutral, fine-tuned on SciBERT & DeBERTa with SHAP-based interpretability |
 | [**TruthGuard**](https://github.com/AnkitGuin/TruthGuard) | Multi-agent RAG system that detects hallucinations in scientific documents by verifying claims against retrieved evidence, with a Streamlit dashboard |
-| [**mechanistic-interpretability-rnn**](https://github.com/AnkitGuin/mechanistic-interpretability-rnn) | *[fill in — looks like interpretability research on RNN internals]* |
+| [**mechanistic-interpretability-rnn**](https://github.com/AnkitGuin/mechanistic-interpretability-rnn) | An interpretability research on RNN internals |
 | [**semantic-tree-retrieval**](https://github.com/AnkitGuin/semantic-tree-retrieval) | Tree-structured semantic retrieval system in Python |
 | [**CNC-Tool-Wear-Prediction**](https://github.com/AnkitGuin/CNC-Tool-Wear-Prediction) | Predicts CNC tool wear from sensor data to enable predictive maintenance |
 
