@@ -1,7 +1,7 @@
 <!-- GitHub profile README | Repository: https://github.com/AnkitGuin/AnkitGuin -->
 
 <p align="center">
-  <img src="assets/research-banner.svg" alt="Ankit Guin — Machine Learning Research. Reliable models, rigorous evaluation, interpretable systems." width="100%" />
+  <img src="banner.png" alt="Ankit Guin — Machine Learning Research" width="100%" />
 </p>
 
 <p align="center">
