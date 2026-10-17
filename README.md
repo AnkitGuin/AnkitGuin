@@ -78,7 +78,7 @@ My interests span **uncertainty quantification**, **probabilistic optimization**
 | **[Semantic Tree Retrieval](https://github.com/AnkitGuin/semantic-tree-retrieval)** | Hierarchical K-Means retrieval over research-paper embeddings, with beam-search routing and a flat-search baseline; built for Inter-IIT Tech Meet 14.0. |
 | **[AMPClassifier](https://github.com/AnkitGuin/amp-classifier)** | Protein-language-model fine-tuning pipeline for antimicrobial peptide classification. |
 | **[CNC Quality & Tool Wear](https://github.com/AnkitGuin/CNC-Tool-Wear-Prediction)** | Sensor-driven prediction of CNC surface roughness and investigation of tool-condition effects. |
-| **[Financial Time-Series Analysis](https://github.com/AnkitGuin/financial-time-series-analysis)** | ARIMA and ML comparisons using chronological splits and out-of-sample diagnostic analysis. |
+| **[EV Fault Diagnosis](https://github.com/AnkitGuin?tab=repositories)** | Applied machine learning for fault identification and diagnosis in electric-vehicle systems, with an emphasis on system reliability and predictive-maintenance applications. |
 
 ---
 
@@ -104,4 +104,3 @@ My interests span **uncertainty quantification**, **probabilistic optimization**
   <br />
   Reach me at <a href="mailto:ankitguin006@gmail.com">ankitguin006@gmail.com</a> or connect on <a href="https://www.linkedin.com/in/ankit-guin-1b035131a/">LinkedIn</a>.
 </p>
-
