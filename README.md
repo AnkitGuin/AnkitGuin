@@ -11,12 +11,18 @@
   <a href="https://codeforces.com/profile/Ankit37"><strong>Codeforces</strong></a>
 </p>
 
-Hi, I'm Ankit.
-I'm a B.Tech student in Mechatronics Engineering at IIT Bhilai and an ML research intern at IIT Bhilai. I enjoy turning questions about how models behave, fail, and adapt into reproducible experiments and working implementations.
-My interests span uncertainty quantification, probabilistic optimization, mechanistic interpretability, multi-agent planning, and trustworthy language-model systems. Across projects, I prioritize meaningful baselines, leakage-aware evaluation, ablation studies, and clear reporting of limitations—not just a model that runs.
-Research direction: How can we make learning systems more reliable when data distributions shift, evidence is incomplete, or model behavior is difficult to explain?
+### Hi, I'm Ankit.
 
-Selected research
+I'm a **B.Tech student in Mechatronics Engineering at IIT Bhilai** and an **ML research intern at IIT Bhilai**. I enjoy turning questions about how models *behave, fail, and adapt* into reproducible experiments and working implementations.
+
+My interests span **uncertainty quantification**, **probabilistic optimization**, **mechanistic interpretability**, **multi-agent planning**, and **trustworthy language-model systems**. Across projects, I prioritize meaningful baselines, leakage-aware evaluation, ablation studies, and clear reporting of limitations—not just a model that runs.
+
+> **Research direction:** How can we make learning systems more reliable when data distributions shift, evidence is incomplete, or model behavior is difficult to explain?
+
+---
+
+## Selected research
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -62,30 +68,40 @@ Selected research
   </tr>
 </table>
 
-ML systems & applied work
-Project	What it explores
-SciContradict	Scientific claim-comparison system using BERT, RoBERTa, SciBERT, and DeBERTa, with claim-pair construction, semantic retrieval, calibration, and error analysis for NLI-based contradiction detection.
-TruthGuard	Multi-agent RAG pipeline for claim extraction, evidence verification, critique, and answer revision; includes an evaluation framework and Streamlit interface.
-RagBench	Modular benchmark for lexical, dense, and hybrid retrieval, with ranking metrics, resource measurements, and experiment configuration.
-Semantic Tree Retrieval	Hierarchical K-Means retrieval over research-paper embeddings, with beam-search routing and a flat-search baseline; built for Inter-IIT Tech Meet 14.0.
-AMPClassifier	Protein-language-model fine-tuning pipeline for antimicrobial peptide classification.
-CNC Quality & Tool Wear	Sensor-driven prediction of CNC surface roughness and investigation of tool-condition effects.
-Financial Time-Series Analysis	ARIMA and ML comparisons using chronological splits and out-of-sample diagnostic analysis.
+## ML systems & applied work
 
+| Project | What it explores |
+|:--|:--|
+| **[SciContradict](https://github.com/AnkitGuin/SciContradict)** | Scientific claim-comparison system using BERT, RoBERTa, SciBERT, and DeBERTa, with claim-pair construction, semantic retrieval, calibration, and error analysis for NLI-based contradiction detection. |
+| **[TruthGuard](https://github.com/AnkitGuin/TruthGuard)** | Multi-agent RAG pipeline for claim extraction, evidence verification, critique, and answer revision; includes an evaluation framework and Streamlit interface. |
+| **[RagBench](https://github.com/AnkitGuin/RagBench)** | Modular benchmark for lexical, dense, and hybrid retrieval, with ranking metrics, resource measurements, and experiment configuration. |
+| **[Semantic Tree Retrieval](https://github.com/AnkitGuin/semantic-tree-retrieval)** | Hierarchical K-Means retrieval over research-paper embeddings, with beam-search routing and a flat-search baseline; built for Inter-IIT Tech Meet 14.0. |
+| **[AMPClassifier](https://github.com/AnkitGuin/amp-classifier)** | Protein-language-model fine-tuning pipeline for antimicrobial peptide classification. |
+| **[CNC Quality & Tool Wear](https://github.com/AnkitGuin/CNC-Tool-Wear-Prediction)** | Sensor-driven prediction of CNC surface roughness and investigation of tool-condition effects. |
+| **[Financial Time-Series Analysis](https://github.com/AnkitGuin/financial-time-series-analysis)** | ARIMA and ML comparisons using chronological splits and out-of-sample diagnostic analysis. |
 
-How I approach research
-- Establish strong baselines. Compare against methods that are simpler, cheaper, and easier to reason about.
-- Test assumptions, not just accuracy. Examine distribution shift, calibration, data leakage, robustness, and failure modes.
-- Make results reproducible. Use fixed experimental protocols, seeded runs, ablations, tests, and documented limitations.
-- Build the tooling. Create the pipelines, benchmarks, visualizations, and interfaces needed to investigate a hypothesis end to end.
-Tools & methods
-Modelling & statistics	Language models & retrieval	Research engineering
-Python · PyTorch · scikit-learn · NumPy · SciPy · XGBoost	Hugging Face Transformers · Sentence-Transformers · FAISS · RAG · NLI	Git · pytest · Jupyter · Docker · Streamlit · pandas · Plotly
+---
 
+## How I approach research
 
-Also exploring: predictive maintenance with sequence models; physics-informed learning, computational finance, and quantum algorithms.
+- **Establish strong baselines.** Compare against methods that are simpler, cheaper, and easier to reason about.
+- **Test assumptions, not just accuracy.** Examine distribution shift, calibration, data leakage, robustness, and failure modes.
+- **Make results reproducible.** Use fixed experimental protocols, seeded runs, ablations, tests, and documented limitations.
+- **Build the tooling.** Create the pipelines, benchmarks, visualizations, and interfaces needed to investigate a hypothesis end to end.
+
+## Tools & methods
+
+| Modelling & statistics | Language models & retrieval | Research engineering |
+|:--|:--|:--|
+| Python · PyTorch · scikit-learn · NumPy · SciPy · XGBoost | Hugging Face Transformers · Sentence-Transformers · FAISS · RAG · NLI | Git · pytest · Jupyter · Docker · Streamlit · pandas · Plotly |
+
+**Also exploring:** predictive maintenance with sequence models; physics-informed learning, computational finance, and quantum algorithms.
+
+---
+
 <p align="center">
   <strong>Interested in rigorous AI/ML research, reproducible experiments, and thoughtful collaboration.</strong>
   <br />
   Reach me at <a href="mailto:ankitguin006@gmail.com">ankitguin006@gmail.com</a> or connect on <a href="https://www.linkedin.com/in/ankit-guin-1b035131a/">LinkedIn</a>.
 </p>
+
